@@ -1,7 +1,7 @@
 {
-  "name": "默认数据",
-  "author": "默认",
-  "version": "20190812",
+  "name": "忘忧PVE数据",
+  "author": "焚海溅",
+  "version": "20191017",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
